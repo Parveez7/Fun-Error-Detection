@@ -4,3 +4,5 @@
 ### This project gives you a specific message which can be changed, when there is an error in the code.
 
 ### All you have to do is type your code in "code here" section, and type your custom message in "message here" section
+
+#### *Only available for windows users as of now.
